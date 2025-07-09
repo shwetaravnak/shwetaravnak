@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 * 👂 My name is Shweta Ravnak.
 * 🌱 I’m currently learning MERN stack.
 * ❤️ I love learning new technologies.
